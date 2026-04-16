@@ -135,18 +135,6 @@ OpenCV + ensemble classifier (Random Forest, SVM, CNN) trained on 500+ clinical 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=soroushsaririan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroushsaririan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
----
-
 <div align="center">
   <sub>M.S. Applied Data Science · University of Florida · GPA 4.0 · Graduating May 2026</sub>
 </div>
