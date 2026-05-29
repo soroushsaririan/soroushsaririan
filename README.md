@@ -122,7 +122,7 @@ Accessible VLM-powered screening tool that analyzes retinal images to automatica
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Skin Allergen CV Pipeline
+###  Skin Allergen CV Pipeline
 **Automated Diagnostic Imaging**
 
 OpenCV + ensemble classifier (Random Forest, SVM, CNN) trained on 500+ clinical photographs. Achieves >90% clinician-score correlation and 85% reduction in diagnosis time.
