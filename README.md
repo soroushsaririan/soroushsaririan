@@ -28,15 +28,15 @@
 
 I'm an **AI/ML Engineer** (Graduate Co-op) at **Raytheon** and an **M.S. Applied Data Science** candidate at the **University of Florida** (GPA 4.0, graduating May 2026). I design and deploy intelligent systems across multi-agent AI, computer vision, clinical decision support, and defense software.
 
-- 🔭 &nbsp;**Currently:** LLM-assisted static analysis pipeline @ Raytheon using DARPA Cyber Grand Challenge technology
-- 🏥 &nbsp;**Researching:** sEMG signal processing for stroke patient gait analysis @ UF Orthopedics
-- 🎓 &nbsp;**Education:** M.S. Applied Data Science @ University of Florida · B.E. Mechanical Engineering @ Stony Brook University *(Magna Cum Laude)*
-- 📄 &nbsp;**Published:** Lead author in *Polymer Composites* — CNT nanocomposite compressive strength research
-- 📍 &nbsp;**Location:** Gainesville, FL
+-  &nbsp;**Currently:** LLM-assisted static analysis pipeline @ Raytheon using DARPA Cyber Grand Challenge technology
+-  &nbsp;**Researching:** sEMG signal processing for stroke patient gait analysis @ UF Orthopedics
+-  &nbsp;**Education:** M.S. Applied Data Science @ University of Florida · B.E. Mechanical Engineering @ Stony Brook University *(Magna Cum Laude)*
+-  &nbsp;**Published:** Lead author in *Polymer Composites* — CNT nanocomposite compressive strength research
+-  &nbsp;**Location:** Gainesville, FL
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -78,13 +78,13 @@ I'm an **AI/ML Engineer** (Graduate Co-op) at **Raytheon** and an **M.S. Applied
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 VitalStream
+###  VitalStream
 **Serverless Real-Time Patient Telemetry**
 
 Fully serverless AWS pipeline for HIPAA-aligned physiological monitoring. IoT Core → Kinesis → Lambda DSP → SageMaker 1D-CNN+BiLSTM anomaly detection → DynamoDB. Terraform-provisioned 3-AZ VPC with 7 PrivateLink endpoints.
@@ -96,7 +96,7 @@ Fully serverless AWS pipeline for HIPAA-aligned physiological monitoring. IoT Co
 </td>
 <td width="50%" valign="top">
 
-### 🤖 SymptaAI
+###  SymptaAI
 **Clinical AI Decision Support Platform**
 
 8-agent LangGraph pipeline covering intake → diagnosis → care plan generation with real-time SSE streaming. Produces ICD-10 coded differentials and drug interaction flags in under 2 minutes.
@@ -110,7 +110,7 @@ Fully serverless AWS pipeline for HIPAA-aligned physiological monitoring. IoT Co
 <tr>
 <td width="50%" valign="top">
 
-### 👁 RetinAI
+###  RetinAI
 **Diabetic Retinopathy Screening**
 
 Accessible VLM-powered screening tool that analyzes retinal images to automatically flag retinopathy symptoms — designed for resource-limited clinical settings.
