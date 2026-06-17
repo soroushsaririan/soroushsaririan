@@ -26,7 +26,7 @@
 
 ## About Me
 
-I'm an **AI/ML Engineer** (Graduate Co-op) at **Raytheon** and an **M.S. Applied Data Science** candidate at the **University of Florida** (GPA 4.0, graduating May 2026). I design and deploy intelligent systems across multi-agent AI, computer vision, clinical decision support, and defense software.
+I'm an **AI/ML Engineer** (Graduate Co-op) at **Raytheon** and an **M.S. Applied Data Science** candidate at the **University of Florida** (GPA 3.97, graduating May 2026). I design and deploy intelligent systems across multi-agent AI, computer vision, clinical decision support, and defense software.
 
 -  &nbsp;**Currently:** LLM-assisted static analysis pipeline @ Raytheon using DARPA Cyber Grand Challenge technology
 -  &nbsp;**Researching:** sEMG signal processing for stroke patient gait analysis @ UF Orthopedics
