@@ -32,7 +32,7 @@ I'm an **AI/ML Engineer** (Graduate Co-op) at **Raytheon** and an **M.S. Applied
 -  &nbsp;**Researching:** sEMG signal processing for stroke patient gait analysis @ UF Orthopedics
 -  &nbsp;**Education:** M.S. Applied Data Science @ University of Florida · B.E. Mechanical Engineering @ Stony Brook University *(Magna Cum Laude)*
 -  &nbsp;**Published:** Lead author in *Polymer Composites* — CNT nanocomposite compressive strength research
--  &nbsp;**Location:** Gainesville, FL
+-  &nbsp;**Location:** New York, NY
 
 ---
 
